@@ -298,4 +298,10 @@ body {
   .box .description {
     margin-bottom: 20px;
   }
+
+  .image .circle-background {
+    width: 350px; 
+    height: 400px; 
+    margin-top: 20px;
+  }
 }
