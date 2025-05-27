@@ -22,7 +22,7 @@ export default function Works() {
           <div className="w-full h-64 bg-gray-200 rounded-lg flex flex-col items-center overflow-hidden">
             <div className="flex flex-col items-center p-2 z-2">
               <h1 className="font-bold text-xl md:text-3xl text-black">Blog Platform</h1>
-              <p className="text-xs md:text-sm">Streamlining how you share ideas.</p>
+              <p className="text-xs md:text-sm text-black">Streamlining how you share ideas.</p>
             </div>
             <div>
               <img src="/images/blog.png" className="w-full h-full object-contain p-4 transform transition hover:scale-125 duration-300" />
@@ -51,7 +51,7 @@ export default function Works() {
         <div className="w-full h-64 md:h-96 bg-gray-200 rounded-lg flex flex-col items-center overflow-hidden">
             <div className="flex flex-col items-center p-2 mt-2 z-2">
               <h1 className="font-bold text-xl md:text-3xl text-black">Ticketing System</h1>
-              <p className="text-xs md:text-sm">Redefining how feedback flows.</p>
+              <p className="text-xs md:text-sm text-black">Redefining how feedback flows.</p>
             </div>
             <div>
               <img src="/images/helpdesk.png" className="w-full h-full object-contain p-4 transform transition hover:scale-125 duration-300" />
