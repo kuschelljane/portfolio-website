@@ -16,11 +16,10 @@ export default function Background() {
                   <a href="https://www.linkedin.com/in/kuschell-jane-amulong-400034181/" target="_blank"><i className="bi bi-linkedin"></i></a>
                   <a href="https://github.com/kuschelljane" target="_blank"><i className="bi bi-github"></i></a>
                   <a href="mailto:kuschelljaneamulong@gmail.com" target="_blank"><i className="bi bi-envelope-fill"></i></a>
-                  <i className="bi bi-file-person-fill"></i>
                 </div>
                 <p className="mt-3">I am an aspiring full-stack developer with nearly two years of development experience. I enjoy building responsive, user-focused web applications and continuously expanding my skill set across the full development stack.</p>
                 <div className="mt-3">
-                  <p><span className="font-medium">Front-end Development: </span>HTML, CSS, JS, ReactJS, NextJS, TailwindCSS</p>
+                  <p><span className="font-medium">Front-end Development: </span>HTML, CSS, JS, React.js, Next.js, TailwindCSS</p>
                   <p><span className="font-medium">Back-end Development: </span>PHP, Laravel</p>
                   <p><span className="font-medium">Database Technologies: </span>SQL, Firebase, Supabase</p>
                   <p><span className="font-medium">Development Tools: </span>Git Commands, Axios</p>
