@@ -47,14 +47,14 @@ export default function Works() {
 
         <div className="grid grid-rows-2 gap-4">
 
-      <a href="https://github.com/kuschell-adish/helpdesk-application" target="_blank">   
+      <a href="https://ulam-ph.vercel.app/" target="_blank">   
         <div className="w-full h-64 md:h-96 bg-gray-200 rounded-lg flex flex-col items-center overflow-hidden">
             <div className="flex flex-col items-center p-2 mt-2 z-2">
-              <h1 className="font-bold text-xl md:text-3xl text-black">Ticketing System</h1>
-              <p className="text-xs md:text-sm text-black">Redefining how feedback flows.</p>
+              <h1 className="font-bold text-xl md:text-3xl text-black">Ma, anong ulam?</h1>
+              <p className="text-xs md:text-sm text-black">A smarter way to plan meals—just ask Ma.</p>
             </div>
             <div>
-              <img src="/images/helpdesk.png" className="w-full h-full object-contain p-4 transform transition hover:scale-125 duration-300" />
+              <img src="/images/ulam.png" className="w-full h-full object-contain p-4 transform transition hover:scale-125 duration-300" />
             </div>
         </div>
       </a>   
